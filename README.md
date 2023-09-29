@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Yaroslav
+- 👀 I’m interested in Python, Java, HTML/CSS, C# and C++
+- 🌱 I’m currently learning HTML/CSS and Python
+- 💞️ I don't really like working in groups, but if you can explain to me what I can't do, or what I don't know, and you'll put up with me, then I'll be happy to work with you :)
+- 📫 How to reach me good Python and HTMS/CSS?
